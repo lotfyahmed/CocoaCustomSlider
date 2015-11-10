@@ -4,7 +4,7 @@
 //
 //  Created by Ahmed Lotfy on 11/10/15.
 //  Copyright © 2015 Ahmed Lotfy. All rights reserved.
-//
+// I used code in the http://stackoverflow.com/questions/29729743/change-nsslider-bar-color site
 
 #import <Cocoa/Cocoa.h>
 

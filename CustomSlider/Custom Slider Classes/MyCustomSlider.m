@@ -25,7 +25,7 @@
     leftRect.size.width = finalWidth;
     // Draw Left Part
     NSBezierPath* bg = [NSBezierPath bezierPathWithRoundedRect: rect xRadius: barRadius yRadius: barRadius];
-//    [[NSColor colorFromHexadecimalValue:BACKGROUND_COLOR] setFill];
+    [[NSColor colorFromHexadecimalValue:BACKGROUND_COLOR] setFill];
     [bg fill];
     
     // Draw Right Part
